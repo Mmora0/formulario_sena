@@ -1,3 +1,12 @@
 body{
     background-color: blanchedalmond;
 }
+
+.contraseña{
+    background-color: aqua;
+    color: blueviolet;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-decoration-color:yellow ;
+    font-family: 'Bebas Neue', cursive;
+}
