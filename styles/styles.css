@@ -1,3 +1,14 @@
+*{
+    margin: 5;
+    padding: 5;
+    list-style:decimal;
+}
+
+
+
+
+
+
 body{
     background-color: blanchedalmond;
 }
@@ -17,9 +28,16 @@ body{
 }
 
 #nombre{
-    background-color: coral;
+    background-color: rgba(255, 127, 80, 0.603);
 }
 
 #apellido{
-    background-color: coral;
+    background-color: rgba(255, 127, 80, 0.603);
+}
+
+.formulario{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    background-color: rgba(140, 236, 223, 0.644);
+    margin-left: 40%;
+    margin-right: 40%;
 }
