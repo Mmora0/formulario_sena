@@ -2,11 +2,24 @@ body{
     background-color: blanchedalmond;
 }
 
-.contraseña{
+.boton1{
     background-color: aqua;
     color: blueviolet;
     text-decoration-line: underline;
     text-decoration-style: dashed;
     text-decoration-color:yellow ;
     font-family: 'Bebas Neue', cursive;
+}
+
+.info{
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(255, 0, 0);
+}
+
+#nombre{
+    background-color: coral;
+}
+
+#apellido{
+    background-color: coral;
 }
